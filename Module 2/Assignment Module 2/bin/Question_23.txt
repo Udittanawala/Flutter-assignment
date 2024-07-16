@@ -1,0 +1,5 @@
+Q23. Difference between inheritance and encapsulation. B5. Difference
+between inheritance and abstraction.
+
+Ans :
+

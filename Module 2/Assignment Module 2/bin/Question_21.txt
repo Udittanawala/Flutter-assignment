@@ -1,0 +1,6 @@
+Q21 - What is inheritance ?
+
+Ans :
+
+when a class can access properties of another class it's called inheritance.
+
