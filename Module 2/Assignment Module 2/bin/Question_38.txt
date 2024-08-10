@@ -1,0 +1,5 @@
+Q38 How do you prevent overriding a Dart method without using the final modifier?
+
+Ans :
+
+-> We can use 'static' keyword to prevent overriding a Dart method without using the final modifier.

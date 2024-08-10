@@ -1,0 +1,9 @@
+ When to overload a method in Dart and when to override it?
+
+ans :
+
+    Object-Oriented Language: A programming language that supports all four core principles of
+    object-oriented programming: encapsulation, inheritance, polymorphism, and abstraction.
+
+    Object-Based Language: A programming language that supports encapsulation through the use
+    of objects but does not support inheritance, polymorphism, or abstraction.

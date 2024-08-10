@@ -1,0 +1,12 @@
+Q36 When to overload a method in Dart and when to override it?
+
+Ans :
+
+only override method can be supported in dart language.
+
+overload method is not supported in dart language.
+
+when we need to method same name and same class but parameter are different so, we use method overloading.
+
+when we need to change definition of parent class so, we use method overriding.
+

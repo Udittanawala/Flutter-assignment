@@ -1,0 +1,5 @@
+Q32 How do you restrict a member of a class from inheriting by its subclasses?
+
+Ans :
+
+-> We can restrict a member of a class from inheriting by its subclasses using 'final' keyword.

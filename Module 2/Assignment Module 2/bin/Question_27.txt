@@ -1,0 +1,8 @@
+Q27. Can a class implement more than one interface? B10. Can a class
+ extend more than one class in Dart?
+
+ Ans :
+
+-> Yes, We can implement more than one interface in a class. This archived by using 'implement' keyword.
+
+-> No, We cannot extend more than one class in a subclass. It is not supported by Dart.

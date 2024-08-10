@@ -1,0 +1,6 @@
+Q26. Can we overload static method in Dart?
+
+Ans :
+
+-> It is not possible overload a method that has been declared static in parent class and other reason was
+   method overload not supported by Dart.

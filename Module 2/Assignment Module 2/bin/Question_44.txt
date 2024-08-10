@@ -1,0 +1,7 @@
+Q44 Can a superclass access subclass member?
+
+Ans :
+
+-> Superclass cannot access subclass member
+
+-> Because, In object-oriented programming only subclass can access only superclass method and member.

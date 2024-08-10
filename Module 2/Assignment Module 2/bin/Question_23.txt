@@ -2,4 +2,32 @@ Q23. Difference between inheritance and encapsulation. B5. Difference
 between inheritance and abstraction.
 
 Ans :
+➡ Difference between inheritance and encapsulation.
 
+-------------------------------------------------------------------------------------------------------
+Aspect	            Inheritance	                            Encapsulation
+-------------------------------------------------------------------------------------------------------
+Definition	  A mechanism to inherit properties   A mechanism to bundle data and methods,
+              and methods from a parent class.	  and restrict direct access to some of the object’s
+                                                  components.
+--------------------------------------------------------------------------------------------------------
+Purpose	      To promote code reusability and     To protect data and ensure controlled access and
+              establish a hierarchical            modification.
+              relationship.
+---------------------------------------------------------------------------------------------------------
+Usage 	      Uses the extends keyword.	          Uses private fields (prefix with _) and
+                                                  public getter/setter methods.
+----------------------------------------------------------------------------------------------------------
+Scope	      Affects the relationship between    Affects the visibility and accessibility of
+              classes.	                          data within a class.
+----------------------------------------------------------------------------------------------------------
+Flexibility	  Can lead to a rigid structure       Provides flexibility and security by controlling
+              if overused.	                      data access.
+----------------------------------------------------------------------------------------------------------
+Impact 	      Promotes code reuse and logical     Ensures the internal state of objects is protected and
+              structuring.	                    modified in controlled ways.
+-----------------------------------------------------------------------------------------------------------
+Accessibility Subclasses inherit public and     Private members are not accessible directly from
+              protected members from the        outside the class; access is through public methods.
+              parent class.
+-----------------------------------------------------------------------------------------------------------
